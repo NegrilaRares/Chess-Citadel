@@ -1,6 +1,6 @@
 # Chess-Citadel
 
-Authors: Negrila Rares(NegrilaRares), Iacobescu Cristian Mario (MarioMario7)
+Authors: Negrila Rares (NegrilaRares), Iacobescu Cristian Mario (MarioMario7)
 
 Made in 2023 for Politehnica University of Bucharest Scientific Session.
 
